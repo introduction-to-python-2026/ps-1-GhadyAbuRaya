@@ -1,4 +1,4 @@
-greeting = "hello"
-name = " world"
+greeting = "Hello"
+name = " World!"
 greeting = greeting + name
-print( greeting)
+print(greeting)
